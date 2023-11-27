@@ -8,6 +8,7 @@ Working on Microsoft Windows, with Microsoft Office, Apple OSX and Unix, corpora
 - 👀 I’m interested in AI, Azure, Automation, Python, 
 - 🌱 I’m currently learning GitHub, Azure, OpenAI, Python,
 - 💞️ I’m looking to collaborate on copilot, python, prompt engineering, Azure openAI, USE YOUR OWN DATA
+- Also Love VINYLS 
 - 📫 How to reach me noel.black@outlook.com
 
 <!---
