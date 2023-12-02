@@ -1,5 +1,5 @@
 ![image](https://github.com/noelb1/noelb1/assets/26370465/9386d6de-56eb-4499-b2d3-1ea7e0cc775c)
-![image](![image](https://octodex.github.com/images/vinyltocat.png)
+
 [![.NET code metrics](https://github.com/Custom-Copilot/Custom-Copilot/actions/workflows/blank.yml/badge.svg)](https://github.com/Custom-Copilot/Custom-Copilot/actions/workflows/blank.yml)
 ![image](https://octodex.github.com/images/vinyltocat.png)
 
