@@ -9,8 +9,19 @@
 [![.NET code metrics](https://github.com/Custom-Copilot/Custom-Copilot/actions/workflows/blank.yml/badge.svg)](https://github.com/Custom-Copilot/Custom-Copilot/actions/workflows/blank.yml) [![.NET code metrics](https://github.com/Custom-Copilot/Custom-Copilot/actions/workflows/blank.yml/badge.svg)](https://github.com/Custom-Copilot/Custom-Copilot/actions/workflows/blank.yml) [![.NET code metrics](https://github.com/Custom-Copilot/Custom-Copilot/actions/workflows/blank.yml/badge.svg)](https://github.com/Custom-Copilot/Custom-Copilot/actions/workflows/blank.yml) [![.NET code metrics](https://github.com/Custom-Copilot/Custom-Copilot/actions/workflows/blank.yml/badge.svg)](https://github.com/Custom-Copilot/Custom-Copilot/actions/workflows/blank.yml) [![.NET code metrics](https://github.com/Custom-Copilot/Custom-Copilot/actions/workflows/blank.yml/badge.svg)](https://github.com/Custom-Copilot/Custom-Copilot/actions/workflows/blank.yml)
 
 
-- 👋 Hi, I’m @noelb1 An adaptable service-driven IT professional and an experienced team leader focused on customer support with an eye for detail. I am a co-ordinated problem solver that has a passion for IT and technology. I have the experience of working with multiple projects. With a broad industry experience that spans over 28 years that includes media, advertising, finance, legal and IT services.
-Working on Microsoft Windows, with Microsoft Office, Apple OSX and Unix, corporate environments, ITIL and ITSM focussed, repairs, and desktop support. 
+- 👋 Hello, I’m @noelb1!
+
+- I'm an adaptable IT professional with a wealth of experience in customer support, team leadership, and -- project management. With a career spanning over 28 years, I’ve worked across diverse industries, --- ---- including media, advertising, finance, legal, and IT services. My expertise includes:
+
+- Technical Skills: Proficient in Microsoft Windows, Office, Apple OSX, Unix, ITIL, and ITSM. Skilled in - repairs and desktop support.
+
+- Interests: AI, Azure, Automation, Python.
+
+- Current Learning Focus: GitHub, Azure, OpenAI, Python.
+
+- Collaboration Interests: Copilot, Python, prompt engineering, Azure OpenAI, and USE YOUR OWN DATA.
+
+- Passions: A die-hard fan of vinyl records.
 
 - 👀 I’m interested in AI, Azure, Automation, Python, 
 - 🌱 I’m currently learning GitHub, Azure, OpenAI, Python,
