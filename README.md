@@ -17,6 +17,10 @@ Working on Microsoft Windows, with Microsoft Office, Apple OSX and Unix, corpora
 - 💞️ I’m looking to collaborate on copilot, python, prompt engineering, Azure openAI, USE YOUR OWN DATA
 - Also Love VINYLS 
 - 📫 How to reach me noel.black@outlook.com
+- https://github.com/noelb1/noelb1.github.io/blob/main/README.md
+- ![microsoft-certified-azure-fundamentals](https://github.com/user-attachments/assets/e0abe7f1-eb3d-4c0a-ae55-988ca68529e9)
+- https://www.credly.com/badges/93d2a3f8-1075-4cd5-9409-a57503f83c69/public_url
+- 
 
 <!---
 noelb1/noelb1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
